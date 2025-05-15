@@ -70,5 +70,31 @@ The project uses six main tables:
 - *visit_datetime_date*: Date of the website visit.
 - *visit_datetime_time*: Time of the website visit.
 
+## 🔄 End-to-End Architecture
+
+### 1. Ingest Raw Data (API to Bronze)
+- Loop through 6 API-based files using `Lookup + ForEach` activity
+- Store raw files in **Bronze Lakehouse** for traceability
+![Image](https://github.com/user-attachments/assets/653d4186-3daa-435e-8577-4d3fb5ffd37b)
+
+### 2. Bronze ➡️ Silver: Unified Table Creation
+- Use **PySpark** to:
+  - Merge all files into one table
+  - Align schemas
+  - Type cast & clean nulls/duplicates
+- Save as a consolidated table in **Silver Lakehouse**
+![Image](https://github.com/user-attachments/assets/9a0dd884-02f5-4a7b-aa11-a76439cdce75)
+
+### 3. Silver ➡️ Gold: Data Modelling 
+- Design a **Star Schema** using PySpark
+- Create:
+  - `fact_user_engagement`
+  - `dim_user`, `dim_product`, `dim_platform`, `dim_date`
+- Optimize for Power BI consumption
+- Store model in **Gold Lakehouse**
+![Image](https://github.com/user-attachments/assets/ea6831ff-851c-4187-b6df-4fffd6528361)
+
+![Star Schema](![Image](https://github.com/user-attachments/assets/04711da8-7a22-4626-8c77-313cbeb15231)
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/28191292-3ecf-472e-b234-07d0731f192f" />) <!-- Optional image -->
 
 
