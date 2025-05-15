@@ -8,17 +8,17 @@ This project showcases an end-to-end Microsoft Fabric Data Engineering solution 
 ## 🚀 Objective
 
 Build an end-to-end pipeline using **Microsoft Fabric** to:
-- Ingest and unify user activity data (enquiry, social, web)
-- Identify **inactive website users** still engaged on other platforms
-- Empower marketing teams via **Power BI insights** for retargeting
+- Ingest and unify user activity data (enquiry, social, web).
+- Identify **inactive website users** still engaged on other platforms.
+- Empower marketing teams via **Power BI insights** for retargeting.
 
 ## 🧰 Tools & Technologies
 
 - **Microsoft Fabric**
-  - Data Factory
-  - Lakehouse (Bronze, Silver, Gold)
-  - OneLake Storage
-  - Notebooks (PySpark)
+  - Data Factory.
+  - Lakehouse (Bronze, Silver, Gold).
+  - OneLake Storage.
+  - Notebooks (PySpark).
 - **Power BI**
 - **SQL (T-SQL-like syntax)**
 - **PYSPARK**
@@ -73,15 +73,15 @@ The project uses six main tables:
 ## 🔄 End-to-End Architecture
 
 ### 1. Ingest Raw Data (API to Bronze)
-- Loop through 6 API-based files using `Lookup + ForEach` activity
-- Store raw files in **Bronze Lakehouse** for traceability
+- Loop through 6 API-based files using `Lookup + ForEach` activity.
+- Store raw files in **Bronze Lakehouse** for traceability.
 ![Image](https://github.com/user-attachments/assets/653d4186-3daa-435e-8577-4d3fb5ffd37b)
 
 ### 2. Bronze ➡️ Silver: Unified Table Creation
 - Use **PySpark** to:
-  - Merge all files into one table
-  - Align schemas
-  - Type cast & clean nulls/duplicates
+  - Merge all files into one table.
+  - Align schemas.
+  - Type cast & clean nulls/duplicates.
 - Save as a consolidated table in **Silver Lakehouse**
 ![Image](https://github.com/user-attachments/assets/9a0dd884-02f5-4a7b-aa11-a76439cdce75)
 
@@ -118,22 +118,35 @@ AND (
 - 🎯 These users are ideal candidates for re-engagement campaigns.
 
 ## 📈 Power BI Integration
-- Power BI is directly connected to the Gold Lakehouse SQL endpoint
+- Power BI is directly connected to the Gold Lakehouse SQL endpoint.
 - Marketing users can explore:
-  - Correlations between enquiries and visits
-  - Drop-off trends post-engagement
-  - Channel-wise performance analysis
+  - Correlations between enquiries and visits.
+  - Drop-off trends post-engagement.
+  - Channel-wise performance analysis.
  
-## ✅ Key Outcomes
-- 🛠️ Built an end-to-end ETL pipeline using Microsoft Fabric
-- 🔄 Integrated raw data from APIs into Bronze Lakehouse
-- 🧹 Cleaned and merged into a unified Silver table
-- 🏗️ Modelled star schema in Gold Lakehouse
-- 📊 Enabled self-service analytics with Power BI
-- 🎯 Delivered actionable insights to marketing teams for user retargeting
 
 ## ETL Pipeline Overview
 <img width="1512" alt="Image" src="https://github.com/user-attachments/assets/d3e9ac62-2800-4d38-9b0d-93a8c78de159" />
+
+## ✅ Key Outcomes
+- 🛠️ Built an end-to-end ETL pipeline using Microsoft Fabric.
+- 🔄 Integrated raw data from APIs into Bronze Lakehouse.
+- 🧹 Cleaned and merged into a unified Silver table.
+- 🏗️ Modelled star schema in Gold Lakehouse.
+- 📊 Enabled self-service analytics with Power BI.
+- 🎯 Delivered actionable insights to marketing teams for user retargeting.
+
+## 💡 Skills Gained
+- Microsoft Fabric (Lakehouse, Data Factory, OneLake).
+- Data Modeling with Star Schema.
+- PySpark transformations and structured streaming concepts.
+- Building real-time and batch pipelines.
+- SQL optimization and logic building.
+- Dashboarding and storytelling with Power BI.
+- End-to-end project orchestration and deployment.
+
+## 📌 Conclusion
+This project gave me hands-on experience building a real-world data pipeline that unifies cross-platform activity data and transforms it into strategic business insights. It sharpened my technical and storytelling skills and demonstrated how Microsoft Fabric can power modern, intelligent marketing operations.
 
 
 
