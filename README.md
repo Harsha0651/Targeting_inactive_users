@@ -94,7 +94,7 @@ The project uses six main tables:
 - Store model in **Gold Lakehouse**
 ![Image](https://github.com/user-attachments/assets/ea6831ff-851c-4187-b6df-4fffd6528361)
 
-![Star Schema](![Image](https://github.com/user-attachments/assets/04711da8-7a22-4626-8c77-313cbeb15231)
-<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/28191292-3ecf-472e-b234-07d0731f192f" />) <!-- Optional image -->
+### Star Schema(Data Model)
+(![Image](https://github.com/user-attachments/assets/04711da8-7a22-4626-8c77-313cbeb15231)
 
 
