@@ -123,4 +123,12 @@ AND (
   - Correlations between enquiries and visits
   - Drop-off trends post-engagement
   - Channel-wise performance analysis
+ 
+## ✅ Key Outcomes
+- 🛠️ Built an end-to-end ETL pipeline using Microsoft Fabric
+- 🔄 Integrated raw data from APIs into Bronze Lakehouse
+- 🧹 Cleaned and merged into a unified Silver table
+- 🏗️ Modelled star schema in Gold Lakehouse
+- 📊 Enabled self-service analytics with Power BI
+- 🎯 Delivered actionable insights to marketing teams for user retargeting
 
