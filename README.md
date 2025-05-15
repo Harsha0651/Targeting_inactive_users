@@ -132,7 +132,7 @@ AND (
 - 📊 Enabled self-service analytics with Power BI
 - 🎯 Delivered actionable insights to marketing teams for user retargeting
 
-### ETL Pipeline Overview
+## ETL Pipeline Overview
 <img width="1512" alt="Image" src="https://github.com/user-attachments/assets/d3e9ac62-2800-4d38-9b0d-93a8c78de159" />
 
 
