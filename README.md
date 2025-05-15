@@ -28,9 +28,9 @@ Build an end-to-end pipeline using **Microsoft Fabric** to:
 The project uses six main tables:
 
 1. **tbl_account**: Contains user account details.
- -*user_id*: Unique identifier for each user.
- -*first_name*: First name of the user.
- -*last_name*: Last name of the user.
- -*email*: Email address of the user.
+ - *user_id*: Unique identifier for each user.
+ - *first_name*: First name of the user.
+ - *last_name*: Last name of the user.
+ - *email*: Email address of the user.
 
 
