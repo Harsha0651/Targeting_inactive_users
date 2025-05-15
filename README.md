@@ -21,3 +21,15 @@ Build an end-to-end pipeline using **Microsoft Fabric** to:
   - Notebooks (PySpark)
 - **Power BI**
 - **SQL (T-SQL-like syntax)**
+- **PYSPARK**
+- **Python**
+
+## 📘 Database Schema
+The project uses six main tables:
+
+**tbl_account**: Contains user account details.
+-*user_id*: Unique identifier for each user.
+-*first_name*: First name of the user.
+-*last_name*: Last name of the user.
+-*email*: Email address of the user.
+
