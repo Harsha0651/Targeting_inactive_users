@@ -28,11 +28,11 @@ Build an end-to-end pipeline using **Microsoft Fabric** to:
 The project uses six main tables:
 
 1. **tbl_account**: Contains user account details.
- - *user_id*: Unique identifier for each user.
- - *first_name*: First name of the user.
- - *last_name*: Last name of the user.
- - *email*: Email address of the user.
-- *created_datetime_date*: Date the account was created.
+ - `user_id`: Unique identifier for each user.
+ - `first_name`: First name of the user.
+ - `last_name`: Last name of the user.
+ - `email`: Email address of the user.
+ - `created_datetime_date`: Date the account was created.
 
 2. **tbl_assets**: Holds information about digital or physical assets.
 - *asset_id*: Unique identifier for each asset.
@@ -95,6 +95,25 @@ The project uses six main tables:
 ![Image](https://github.com/user-attachments/assets/ea6831ff-851c-4187-b6df-4fffd6528361)
 
 ### Star Schema(Data Model)
-(![Image](https://github.com/user-attachments/assets/04711da8-7a22-4626-8c77-313cbeb15231)
+![Image](https://github.com/user-attachments/assets/04711da8-7a22-4626-8c77-313cbeb15231)
 
+### 🧪 Inactive User Identification
+
+## 🔍 SQL Logic to Identify Inactive Users
+
+```sql
+SELECT DISTINCT f.user_key
+FROM fact_user_engagement f
+WHERE 
+(
+  f.demand_date IS NOT NULL OR 
+  f.social_date IS NOT NULL
+)
+AND (
+  f.web_visit_date IS NULL OR 
+  f.web_visit_date < DATEADD(month, -6, GETDATE())
+)
+```
+- 🔍 Detects users active on social or enquiry channels but not active on the website for 6+ months.
+- 🎯 These users are ideal candidates for re-engagement campaigns.
 
