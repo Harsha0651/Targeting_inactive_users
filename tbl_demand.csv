@@ -1,0 +1,301 @@
+user_id,name,product_id,status,product_name,created_datetime_date
+b2fbc545-5bed-420d-9235-eac6b1047016,Rebecca Kennedy,40d002c5-4a55-44a5-b53c-18b3608f101e,completed,Dell Laptop,11/01/2025
+0e11e152-0931-484d-bbb5-62a90bed5a01,Edwin Powers,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,cancelled,Sony Headphones,11/03/2025
+571ec897-f243-4362-9a06-172f1f18a948,Keith Valdez,645e7259-aaa2-47c9-b175-1f91a2c1fee4,cancelled,HP Monitor,13/04/2025
+36f1be00-a82b-47d5-a8ce-0740de276411,Jamie Carroll,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,cancelled,Sunglasses,09/01/2025
+b6952d35-9966-4b6e-9a18-2b09d0e4a04d,Christina Smith,7fc76315-25e2-479c-8387-dfd40ca0d074,cancelled,Kids' Jeans,17/11/2024
+5b9cc20e-c4d3-42e1-b521-bf71fa3926e8,Alyssa Wilson,bcce3a75-61b7-4c20-9791-7380604fc136,completed,Bluetooth Speaker,01/04/2025
+55674bb0-5553-438f-9125-0d5443837460,Beth Wilson,4c0f2d3f-69da-46d7-9a46-022e48040503,cancelled,Samsung Galaxy S23,12/02/2025
+7027ffc4-dbdd-40e8-bfd8-20b62f0b6d5e,Thomas Peterson,40d002c5-4a55-44a5-b53c-18b3608f101e,cancelled,Dell Laptop,14/02/2025
+8654530d-8a69-4d16-8c1e-81170d307608,Eric Maldonado,7fc76315-25e2-479c-8387-dfd40ca0d074,pending,Kids' Jeans,07/11/2024
+a3d853cc-b94e-4877-8121-af01de7cead7,Michelle Rodriguez,e48ea11c-9985-40aa-b006-7e79fea09a54,cancelled,Casual Dress,18/11/2024
+67d10d65-6524-4f9a-8747-914a33fcae81,Dean Roman,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,completed,Apple iPad,30/11/2024
+bfa4956f-df14-4c80-851b-32daebcd6bb0,Rebecca Wright,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,19/12/2024
+57c9a81f-0951-4e83-ae2f-65393320c2b9,Kristen Stewart,7de6e0b6-ded5-4db1-a958-24f066da9986,completed,Men's T-Shirt,21/01/2025
+55674bb0-5553-438f-9125-0d5443837460,Stephen Garcia,bcce3a75-61b7-4c20-9791-7380604fc136,cancelled,Bluetooth Speaker,07/04/2025
+f4087616-634b-4b10-8696-0718d67ea502,Marvin Schmitt,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,cancelled,Sony Headphones,31/01/2025
+242495c3-4db5-4716-b2e9-cbee651080b2,Thomas Simpson,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,cancelled,Apple iPad,25/12/2024
+9bd1f09f-fe6a-49f7-9e08-93bfda32098c,Jennifer Silva,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,pending,Apple iPad,03/11/2024
+7cb71c6a-32b6-4f66-a936-eebcb7a10d31,Sara Terrell,40d002c5-4a55-44a5-b53c-18b3608f101e,completed,Dell Laptop,13/02/2025
+14716a13-d714-4500-861e-9ac26169bad6,Mary Duncan,40d002c5-4a55-44a5-b53c-18b3608f101e,pending,Dell Laptop,17/03/2025
+f54477c1-9c68-4c76-814d-56f4e5190e29,James Edwards,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,02/01/2025
+c1291136-1238-49a8-bce6-379406a27e73,Joseph Stone,bcce3a75-61b7-4c20-9791-7380604fc136,completed,Bluetooth Speaker,07/11/2024
+6e8fdac5-95a0-4629-a67b-9ba3a2227c39,Kelly Lutz,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,22/10/2024
+e483bc39-d653-49d6-a824-fc977f2668de,Kayla Torres,f50ab5c1-b85c-4432-9f3f-095ddddb7037,pending,Google Pixel 8,08/01/2025
+9d3e1442-588d-48ff-a175-5234a645f18d,Nicholas Clark,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,22/02/2025
+87955681-e8e6-4e89-b5d1-b650987fd211,Terri Peterson,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,cancelled,Leather Wallet,16/04/2025
+50c392f1-91f2-46b6-8d45-6c30ff4a1262,Jose Pham,e48ea11c-9985-40aa-b006-7e79fea09a54,completed,Casual Dress,13/12/2024
+9d3e1442-588d-48ff-a175-5234a645f18d,Anna Richmond,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,09/01/2025
+b16191c8-7eb8-48d7-b878-d36e61fbc948,Donald Valdez,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,completed,iPhone 15,24/11/2024
+b32ea8ac-f3e8-4fae-8a7c-3fab031e3d2e,James Jones,aed30a3b-d776-4bd1-b2be-369ee6786d9d,cancelled,Logitech Mouse,06/02/2025
+29a666aa-c167-41c9-84b7-e70eeef137e6,Melissa Hardin,f50ab5c1-b85c-4432-9f3f-095ddddb7037,pending,Google Pixel 8,19/01/2025
+5418f464-550c-48da-b4ee-b1232455e16f,Mary Tucker MD,645e7259-aaa2-47c9-b175-1f91a2c1fee4,pending,HP Monitor,08/03/2025
+4757ab73-1e26-4d42-a334-a4edf507bd79,Shelby Rogers,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,08/02/2025
+fc25f795-acbb-4d07-8090-d1adf19c853c,Richard Skinner,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,17/03/2025
+16644eb8-67b3-4d34-9782-b0b2475a2352,James Gentry,bcce3a75-61b7-4c20-9791-7380604fc136,pending,Bluetooth Speaker,17/04/2025
+9ea2f0c8-b838-4262-b176-f3e7b6bd1a22,John Cruz,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,16/11/2024
+14716a13-d714-4500-861e-9ac26169bad6,Anthony Hernandez,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,29/11/2024
+1c0c2fcd-3074-418d-9f25-f5eb90c9ae77,Kelly White,645e7259-aaa2-47c9-b175-1f91a2c1fee4,completed,HP Monitor,26/11/2024
+a6c76197-22db-4d0d-8b50-706636f115aa,Christian Franco,598302e4-6327-4d03-8c9a-be831275defb,cancelled,Backpack,31/03/2025
+2b603480-f891-4df0-9faa-e4d910a91f56,Roger Jennings,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,cancelled,Sony Headphones,03/01/2025
+1588a47c-8994-4690-aee8-6346eade34b6,Denise Cobb,4c0f2d3f-69da-46d7-9a46-022e48040503,completed,Samsung Galaxy S23,16/12/2024
+fbf1b5f1-8367-4c46-82ec-c56bc444b0d7,Cody Wheeler,0fcbbad2-f2fb-49b2-917c-420378894c7c,pending,Smartwatch,05/02/2025
+333f85f3-68d3-4a3d-adce-00da53655d89,Thomas Harrington,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,24/01/2025
+2d53a441-aaf3-46d3-abfa-39d1b751b671,Ms. Paula Woods,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,29/10/2024
+bb84893d-b1bb-419f-be04-653393f85fe3,Ryan Davenport,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,cancelled,Sony Headphones,30/03/2025
+dddb9301-91ac-4d95-bec4-00614ce78836,Lisa Reed,bcce3a75-61b7-4c20-9791-7380604fc136,completed,Bluetooth Speaker,30/03/2025
+95832121-dfc8-489e-931a-4d0d6b683ad5,Catherine Mathews,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,completed,Women's Jacket,18/12/2024
+d60c3c0b-4a70-4bbe-80c9-a52d602b8a04,Jacob Avila,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,01/04/2025
+d8981208-0dae-4056-ac82-6c7060777541,Mark Branch,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,11/02/2025
+efec9817-c394-4294-a57b-6b1bb9a580fa,Ryan Peterson,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,19/12/2024
+333f85f3-68d3-4a3d-adce-00da53655d89,Jeff Johnson,4c0f2d3f-69da-46d7-9a46-022e48040503,cancelled,Samsung Galaxy S23,25/01/2025
+4eba2293-20a7-4272-acf1-8b0582187b08,Nathaniel Hickman,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,06/02/2025
+ef5b6d91-5196-4e19-9e14-4feb8525541f,Nathan Watkins,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,14/03/2025
+7d715697-b660-4c4b-9de9-a62aa7fc6dd7,Christopher Pham,940f36d2-add8-4500-9412-7ae4ab30a336,completed,Unisex Hoodie,19/01/2025
+54e2bfec-0014-414c-a30d-cdced0a3ea9e,Charles Brown,f50ab5c1-b85c-4432-9f3f-095ddddb7037,completed,Google Pixel 8,03/12/2024
+baf7d4bf-0a45-47c2-a6c2-65820027c4b3,Jeremy Dean,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,completed,Sunglasses,26/10/2024
+2f49f702-e54a-4b5a-aa5c-df3405ebc109,Angela Duarte,bcce3a75-61b7-4c20-9791-7380604fc136,cancelled,Bluetooth Speaker,23/03/2025
+d27588ce-755f-4c26-8f00-1c68512e0a65,Sean Lopez,4c0f2d3f-69da-46d7-9a46-022e48040503,cancelled,Samsung Galaxy S23,21/10/2024
+0b73c47b-950a-4580-a411-1542cd6bc8f5,Steven Murray,bcce3a75-61b7-4c20-9791-7380604fc136,completed,Bluetooth Speaker,20/11/2024
+9e956064-2e99-4b4c-8dc9-822179863bc1,Ann Stevens,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,11/12/2024
+f941fdda-6c38-4fda-9f65-0e7909bbe2a8,Christina Arnold,940f36d2-add8-4500-9412-7ae4ab30a336,pending,Unisex Hoodie,18/12/2024
+b5dad994-2605-48fd-b1b9-d1fce87cdd7f,Travis Howard,bcce3a75-61b7-4c20-9791-7380604fc136,completed,Bluetooth Speaker,22/02/2025
+3246e599-987b-4d89-838a-aa4fba980fa6,Teresa Jackson,f50ab5c1-b85c-4432-9f3f-095ddddb7037,completed,Google Pixel 8,01/04/2025
+22b552c0-4252-4d08-8408-9af94def9329,Matthew Paul,0fcbbad2-f2fb-49b2-917c-420378894c7c,cancelled,Smartwatch,21/02/2025
+6c987c38-b6ac-4587-a7ea-1d4463a804ea,Catherine Thomas,e48ea11c-9985-40aa-b006-7e79fea09a54,pending,Casual Dress,21/01/2025
+32f5fd5d-1c68-466e-97b0-4211ce607b64,Kaitlyn Brown,645e7259-aaa2-47c9-b175-1f91a2c1fee4,completed,HP Monitor,14/11/2024
+0c9cd3bb-dbbd-4c50-aa2e-b8319216ae9f,Richard Montes,e48ea11c-9985-40aa-b006-7e79fea09a54,completed,Casual Dress,25/02/2025
+c5bf4a36-9987-47cd-8d7f-5e01b8d1f148,Charles Pearson,940f36d2-add8-4500-9412-7ae4ab30a336,pending,Unisex Hoodie,27/02/2025
+06d66c4c-9ef9-48f4-a62f-9fc340d1a363,Melissa Guerra,645e7259-aaa2-47c9-b175-1f91a2c1fee4,pending,HP Monitor,12/04/2025
+b32cc5e3-99d3-43f1-b3d2-b3f3be7d8889,Alicia Gibbs,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,pending,Leather Wallet,16/12/2024
+00ba9c88-a8fb-4cc2-9e1f-a871e9dfed54,Michelle Williams,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,completed,Sports Shorts,10/01/2025
+5418f464-550c-48da-b4ee-b1232455e16f,Grant Hall,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,25/11/2024
+09ae9e7f-ed28-4058-b4d5-142124e290b8,Amy Becker,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,24/01/2025
+b32ea8ac-f3e8-4fae-8a7c-3fab031e3d2e,Daniel Aguilar,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,15/04/2025
+5f02a1e7-7e87-4aff-a310-0758e2652aa2,Brandy Gardner,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,03/03/2025
+1c0c2fcd-3074-418d-9f25-f5eb90c9ae77,Shari Griffith,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,23/02/2025
+c5bf4a36-9987-47cd-8d7f-5e01b8d1f148,Carrie White,645e7259-aaa2-47c9-b175-1f91a2c1fee4,cancelled,HP Monitor,07/12/2024
+2e028a4b-9a96-4753-b335-99eed7461e94,Ashley Blake,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,pending,Leather Wallet,26/10/2024
+bf82078e-79f4-4c01-b879-18d4f08ba8ae,Carol Avery,f50ab5c1-b85c-4432-9f3f-095ddddb7037,completed,Google Pixel 8,13/11/2024
+dcffd063-cd23-4c46-a579-78bff10c60a9,Scott Snyder,645e7259-aaa2-47c9-b175-1f91a2c1fee4,cancelled,HP Monitor,18/03/2025
+0d630ae4-2b82-40d4-9c45-cc6dd6496068,Kelly Smith,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,pending,Women's Jacket,14/12/2024
+2960947a-ab73-475a-9fbd-b7392c08c3a0,Kaylee Hodges,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,25/01/2025
+9ea2f0c8-b838-4262-b176-f3e7b6bd1a22,Olivia Smith,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,03/11/2024
+8e96ea40-322e-462b-992d-e8d5e92b4364,Holly Anderson,4c0f2d3f-69da-46d7-9a46-022e48040503,cancelled,Samsung Galaxy S23,14/02/2025
+84d2c729-ab18-4d6f-97dc-8a02a34e0c52,Anthony Williams,4c0f2d3f-69da-46d7-9a46-022e48040503,pending,Samsung Galaxy S23,15/03/2025
+e65813bd-cc0e-4116-8c6a-6bd3af4a5eb7,Timothy Bond,4c0f2d3f-69da-46d7-9a46-022e48040503,completed,Samsung Galaxy S23,30/12/2024
+d0acd964-5446-44dd-a2f0-4a3dc7a98f9c,Kelly Nelson,3772af79-76eb-4126-a91c-805e74ca9bf3,pending,Formal Shirt,11/02/2025
+1fa27ab0-2680-4d58-be4a-bd80ccb7437c,Justin Davis,bcce3a75-61b7-4c20-9791-7380604fc136,cancelled,Bluetooth Speaker,22/01/2025
+3e89cacf-e10f-46ed-9455-4c01a215b134,William Phelps MD,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,cancelled,Apple iPad,08/02/2025
+40bf6beb-d830-43e6-956b-b1b90ac30d9b,Shari Martinez,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,14/01/2025
+119ec644-b032-4de0-9f9a-c0b2ada1cfee,Steven Jacobs,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,pending,Sony Headphones,07/04/2025
+cc1e72a8-a6a1-4bc3-a8a3-a32576d0291a,Stacy Brown,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,10/12/2024
+36fcee72-22e3-4719-8390-9e3849e72438,Nicole Peters,4c0f2d3f-69da-46d7-9a46-022e48040503,cancelled,Samsung Galaxy S23,20/02/2025
+00ba9c88-a8fb-4cc2-9e1f-a871e9dfed54,Troy Ross,4c0f2d3f-69da-46d7-9a46-022e48040503,completed,Samsung Galaxy S23,03/03/2025
+41ea4196-aca3-4f40-815d-dbd4cb1f88da,Miss Kendra Dorsey MD,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,completed,Leather Wallet,21/01/2025
+1c162d2d-1b33-448f-9cb9-5b4151ead441,Stephanie Avery,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,cancelled,Leather Wallet,05/03/2025
+806f406e-ddc2-4b92-b50a-13058062af92,Eric Lee,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,cancelled,Leather Wallet,29/03/2025
+31a650bb-84bc-427b-9899-fd8d40425cf8,Krista Jordan,40d002c5-4a55-44a5-b53c-18b3608f101e,pending,Dell Laptop,13/11/2024
+97d687a5-e10b-4d71-ad8c-a8e17b293ea9,Randy Martin,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,01/01/2025
+d0acd964-5446-44dd-a2f0-4a3dc7a98f9c,Carlos Bautista,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,pending,Women's Jacket,28/01/2025
+96e74e45-4075-40e0-bf03-50a0cf393807,Paul Williams,645e7259-aaa2-47c9-b175-1f91a2c1fee4,completed,HP Monitor,12/03/2025
+6bd13acd-e970-4608-a6f1-99a1e6ef70ae,Justin Sanchez,aed30a3b-d776-4bd1-b2be-369ee6786d9d,completed,Logitech Mouse,10/02/2025
+6c987c38-b6ac-4587-a7ea-1d4463a804ea,Jesse Hall,598302e4-6327-4d03-8c9a-be831275defb,pending,Backpack,24/10/2024
+a330ca4e-9bf6-436b-9c26-7c088cd81da9,Daniel Garcia,7fc76315-25e2-479c-8387-dfd40ca0d074,pending,Kids' Jeans,03/04/2025
+bbae985c-bea9-4d86-8220-4207a606ab8a,Alex Leon,bcce3a75-61b7-4c20-9791-7380604fc136,completed,Bluetooth Speaker,10/12/2024
+1588a47c-8994-4690-aee8-6346eade34b6,Johnny Martin,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,cancelled,iPhone 15,21/11/2024
+df89acae-8d6f-4e47-a016-2695867fa22d,Brenda Flowers,7de6e0b6-ded5-4db1-a958-24f066da9986,pending,Men's T-Shirt,11/02/2025
+cab45cc1-c054-4938-887d-d41a613fb6e0,Carmen Johnson,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,cancelled,Sunglasses,01/11/2024
+ec09f994-d2b6-47aa-b133-77576a170fb8,Thomas Hernandez,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,completed,Apple iPad,18/11/2024
+d27588ce-755f-4c26-8f00-1c68512e0a65,Matthew Mann,aed30a3b-d776-4bd1-b2be-369ee6786d9d,cancelled,Logitech Mouse,22/12/2024
+db3fd07b-a12c-46a7-99cc-7e89fc5a9496,Leslie Shaffer,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,completed,Apple iPad,18/01/2025
+f696a740-630a-4c9a-b5b2-e7cdd3a03c2b,Charles Bennett,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,09/04/2025
+bb84893d-b1bb-419f-be04-653393f85fe3,Bridget Stanley,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,pending,iPhone 15,04/03/2025
+dfb17529-8a21-45b3-ae2b-961d7559059e,Jeffrey Gonzalez,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,16/11/2024
+377b9ed6-1a8c-4864-a192-fcc842ea6b13,Jacqueline Morris,598302e4-6327-4d03-8c9a-be831275defb,pending,Backpack,29/12/2024
+15c86070-1ebe-4ce0-81d5-1dfcebbd3da9,Eric Cole,aed30a3b-d776-4bd1-b2be-369ee6786d9d,cancelled,Logitech Mouse,22/11/2024
+e40d58e5-48f2-4795-9bf6-5f2a1f3241a8,Deborah Brooks,e48ea11c-9985-40aa-b006-7e79fea09a54,cancelled,Casual Dress,31/10/2024
+84d2c729-ab18-4d6f-97dc-8a02a34e0c52,Yvonne Poole,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,pending,Women's Jacket,13/12/2024
+24f5bb0b-8155-4508-b1d5-5d60196e0dc0,Sherri Stone,f50ab5c1-b85c-4432-9f3f-095ddddb7037,completed,Google Pixel 8,30/12/2024
+4e75f723-dc31-487a-b610-f1db37b7da92,Mark Hancock,e48ea11c-9985-40aa-b006-7e79fea09a54,pending,Casual Dress,10/01/2025
+b63b9fed-5c53-428f-a0d8-a170cf27ea75,Donald Perez,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,21/02/2025
+119ace28-96ba-41c2-b372-28a99189d235,Kyle Castro,f50ab5c1-b85c-4432-9f3f-095ddddb7037,completed,Google Pixel 8,16/04/2025
+da1f41a9-6203-4c1d-9e0f-9db661e5f579,Jason Martinez,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,29/12/2024
+46c42a47-478f-4957-81f7-38f536833ab6,Jose Robinson,3772af79-76eb-4126-a91c-805e74ca9bf3,pending,Formal Shirt,30/10/2024
+388700bf-f4b9-41be-bc8a-0d535cb68bda,Timothy Davidson,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,16/12/2024
+6978927e-eaf2-4efc-a37f-fb2431736585,Ashley Anderson,940f36d2-add8-4500-9412-7ae4ab30a336,completed,Unisex Hoodie,16/12/2024
+ce91f811-9e20-4f45-ac77-7bfd62d0a751,Richard Hunt,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,completed,Women's Jacket,01/02/2025
+c5dbc5fd-c028-49d7-902d-dce49ebced1b,Lauren Morrison,598302e4-6327-4d03-8c9a-be831275defb,pending,Backpack,22/02/2025
+a4466c59-3f50-4bc9-b8a4-ab7dec9214ff,Michelle Gilmore,7fc76315-25e2-479c-8387-dfd40ca0d074,pending,Kids' Jeans,05/11/2024
+7254963f-430c-4a53-83d6-afc6283adedc,George Jones,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,pending,Apple iPad,29/01/2025
+baf7d4bf-0a45-47c2-a6c2-65820027c4b3,Troy Austin Jr.,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,completed,Women's Jacket,27/11/2024
+0409843c-ba07-421c-b1b4-974983fd9453,Sean Tran,bcce3a75-61b7-4c20-9791-7380604fc136,cancelled,Bluetooth Speaker,19/03/2025
+8554d600-c497-4e8b-b3e2-a0908f1d1d5a,Melinda Smith,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,completed,Sports Shorts,20/02/2025
+a493d6c5-5fc3-40f1-80c9-b27fcfc47cfb,Jennifer Thomas,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,cancelled,Apple iPad,25/11/2024
+8554d600-c497-4e8b-b3e2-a0908f1d1d5a,Joann Mccann,bcce3a75-61b7-4c20-9791-7380604fc136,completed,Bluetooth Speaker,18/03/2025
+9bd1f09f-fe6a-49f7-9e08-93bfda32098c,Nicole Lewis,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,08/11/2024
+cc1e72a8-a6a1-4bc3-a8a3-a32576d0291a,Richard Ali PhD,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,pending,iPhone 15,14/02/2025
+bbc87234-0f37-49db-be7b-1c49c1f41c10,Kenneth Hunt,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,pending,iPhone 15,16/03/2025
+40e32d4a-ea77-4849-83c4-f86c96443911,Rachel Harris,0fcbbad2-f2fb-49b2-917c-420378894c7c,cancelled,Smartwatch,22/11/2024
+c9773848-f8e6-4254-a41c-95d6d6350414,Brian Williams,aed30a3b-d776-4bd1-b2be-369ee6786d9d,cancelled,Logitech Mouse,03/02/2025
+0d630ae4-2b82-40d4-9c45-cc6dd6496068,Elizabeth Adams,e48ea11c-9985-40aa-b006-7e79fea09a54,cancelled,Casual Dress,22/12/2024
+8c8ca8cb-d79c-4592-b58c-7b36caf911c6,Jacqueline York,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,cancelled,iPhone 15,08/04/2025
+bc79ec3d-5bd6-4b3f-b28c-32029f95a771,Christopher Kelley,598302e4-6327-4d03-8c9a-be831275defb,cancelled,Backpack,21/12/2024
+d0acd964-5446-44dd-a2f0-4a3dc7a98f9c,Timothy Winters,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,30/03/2025
+1f5bf5f3-4536-4a61-90ea-df512490c05c,Alexander Clark,4c0f2d3f-69da-46d7-9a46-022e48040503,pending,Samsung Galaxy S23,03/04/2025
+46b2a7b4-b7bd-4a07-8f87-d28a4970bc96,Lee Ryan,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,03/03/2025
+10bbf6c6-8d8a-46fe-84a0-4bcd6bf65e48,Joseph Warren,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,pending,Apple iPad,25/03/2025
+67968772-64a6-4877-927d-5cedf92bd6e0,Scott Lindsey,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,pending,Apple iPad,18/12/2024
+4120b2bb-80db-49b9-9507-59f1c7ba4967,Jeff Lopez,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,13/12/2024
+d307a377-a51a-4acf-af0c-e56b68d845c2,Jeff Fletcher,40d002c5-4a55-44a5-b53c-18b3608f101e,cancelled,Dell Laptop,03/03/2025
+8dd01243-d56c-4a01-a7ac-19fbb8da87be,Daniel Krueger,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,05/03/2025
+2620c9c7-b52f-4ae0-86a8-a5bf8f938865,Jerry Santos,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,04/03/2025
+52ff660d-4122-481b-9a57-7a124c4da07a,Robert Holt,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,completed,Sunglasses,30/12/2024
+d670e994-bf17-44b2-9ac6-96dde0367a50,Patricia Nicholson,4c0f2d3f-69da-46d7-9a46-022e48040503,cancelled,Samsung Galaxy S23,08/11/2024
+bc709f46-3366-4b46-a8a7-3672ac4b8edb,James Cannon,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,02/02/2025
+5d586638-25c6-4bfb-a04f-47005a7ab885,Linda Sanchez,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,10/02/2025
+17fca2b7-fb5e-43ed-8aa4-4baab23a65f4,Alexander Peterson,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,completed,iPhone 15,28/12/2024
+d426b8c5-3aaf-446d-affc-738d417c8d0e,Jennifer Livingston,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,30/03/2025
+b4faba33-101b-405e-8465-5a95895ea498,Danny Peterson,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,completed,Women's Jacket,18/11/2024
+40e32d4a-ea77-4849-83c4-f86c96443911,Veronica Fisher,598302e4-6327-4d03-8c9a-be831275defb,completed,Backpack,23/10/2024
+a8a1c7d4-d209-47c7-9925-0d4e5676673a,Brian Smith,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,16/11/2024
+54854259-69f4-4ab1-87fa-14407c0925cf,Holly Cooley,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,completed,Sunglasses,29/01/2025
+4ef29e44-a505-4820-9b36-8195fa6b71a4,Julian Moore,645e7259-aaa2-47c9-b175-1f91a2c1fee4,completed,HP Monitor,14/12/2024
+3722f388-421e-4880-b49f-e715c5a9b756,Laura Stein,3772af79-76eb-4126-a91c-805e74ca9bf3,pending,Formal Shirt,01/01/2025
+1fa27ab0-2680-4d58-be4a-bd80ccb7437c,Alejandro Sloan,940f36d2-add8-4500-9412-7ae4ab30a336,completed,Unisex Hoodie,21/03/2025
+a4466c59-3f50-4bc9-b8a4-ab7dec9214ff,Courtney Hall,bcce3a75-61b7-4c20-9791-7380604fc136,cancelled,Bluetooth Speaker,23/01/2025
+6d6da97c-705f-41b8-aea2-9725b14b879e,Sydney Davis,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,cancelled,Apple iPad,09/01/2025
+796d6469-002a-40e5-a6d3-ac9b846ca952,Aaron Lambert,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,pending,Apple iPad,26/12/2024
+89f571dd-9997-4397-98f9-9daf93e54e5e,Mary Burns,940f36d2-add8-4500-9412-7ae4ab30a336,pending,Unisex Hoodie,18/04/2025
+1c0c2fcd-3074-418d-9f25-f5eb90c9ae77,Spencer Moss,0fcbbad2-f2fb-49b2-917c-420378894c7c,completed,Smartwatch,16/04/2025
+ba9a2bff-8d93-47f2-b6af-19d40ca43c67,Grant Baker,f50ab5c1-b85c-4432-9f3f-095ddddb7037,pending,Google Pixel 8,22/11/2024
+388700bf-f4b9-41be-bc8a-0d535cb68bda,Matthew King,3772af79-76eb-4126-a91c-805e74ca9bf3,pending,Formal Shirt,10/11/2024
+2112f978-3517-4e60-b21c-c03dd1d21c35,Shelly Ellis,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,02/12/2024
+f9c4f145-c461-4c91-a1c1-2ae9d6a21a9f,Jacob Ortega,7fc76315-25e2-479c-8387-dfd40ca0d074,pending,Kids' Jeans,20/11/2024
+33f855fc-cf36-4efc-b2b4-6f98c7de6060,Amy Lewis,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,cancelled,Leather Wallet,27/01/2025
+cce8029c-1fd4-4965-bd20-0d521584f93c,Kyle Nelson,aed30a3b-d776-4bd1-b2be-369ee6786d9d,cancelled,Logitech Mouse,03/12/2024
+1f0bef5e-6053-43e4-8472-d5f5c007dd69,David Becker,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,31/03/2025
+2338d6c9-3e95-4e9f-a9d3-276dc834c7c0,Meghan Martinez,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,cancelled,Apple iPad,26/11/2024
+933a6613-2f56-4d72-8eab-3b715f75266a,Larry Simpson,7de6e0b6-ded5-4db1-a958-24f066da9986,pending,Men's T-Shirt,24/03/2025
+cab45cc1-c054-4938-887d-d41a613fb6e0,Shelley Long,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,13/04/2025
+ac047ee0-6087-432e-86f6-b294ece05e17,Jenna Craig,0fcbbad2-f2fb-49b2-917c-420378894c7c,completed,Smartwatch,06/02/2025
+c4df38a2-c517-4ee5-950b-0766df443cc1,Derrick Luna,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,cancelled,Leather Wallet,17/02/2025
+4ef29e44-a505-4820-9b36-8195fa6b71a4,Dr. Rachel Schmitt,0fcbbad2-f2fb-49b2-917c-420378894c7c,pending,Smartwatch,04/03/2025
+571ec897-f243-4362-9a06-172f1f18a948,Jesus Cunningham,7fc76315-25e2-479c-8387-dfd40ca0d074,pending,Kids' Jeans,31/03/2025
+48d53844-f418-481a-89ab-895fc02aa9c2,Melissa Combs,645e7259-aaa2-47c9-b175-1f91a2c1fee4,cancelled,HP Monitor,31/01/2025
+1c162d2d-1b33-448f-9cb9-5b4151ead441,Nicole Hansen,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,pending,iPhone 15,03/04/2025
+34f50b95-c4c8-42de-ba9c-9e179f977cb5,John Rodriguez,bcce3a75-61b7-4c20-9791-7380604fc136,cancelled,Bluetooth Speaker,01/02/2025
+79043cf2-28f3-434d-834b-13535e3e273f,Rebecca Park,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,08/03/2025
+7027ffc4-dbdd-40e8-bfd8-20b62f0b6d5e,Bradley Martinez,40d002c5-4a55-44a5-b53c-18b3608f101e,pending,Dell Laptop,05/02/2025
+c61a6a99-1922-4963-acf3-4ed91472ce77,Erica Mcfarland,e48ea11c-9985-40aa-b006-7e79fea09a54,cancelled,Casual Dress,06/03/2025
+bc709f46-3366-4b46-a8a7-3672ac4b8edb,Nicholas Munoz,4c0f2d3f-69da-46d7-9a46-022e48040503,completed,Samsung Galaxy S23,17/03/2025
+d28329ae-9434-46ee-8a27-82f074ff85f7,Cheryl Gibson,0fcbbad2-f2fb-49b2-917c-420378894c7c,cancelled,Smartwatch,26/03/2025
+a22a2fa4-4625-44cf-beda-f884465906f5,Cynthia Miller,4c0f2d3f-69da-46d7-9a46-022e48040503,pending,Samsung Galaxy S23,12/11/2024
+b63b9fed-5c53-428f-a0d8-a170cf27ea75,Charles Fernandez,aed30a3b-d776-4bd1-b2be-369ee6786d9d,pending,Logitech Mouse,10/01/2025
+7027ffc4-dbdd-40e8-bfd8-20b62f0b6d5e,Morgan Smith,4c0f2d3f-69da-46d7-9a46-022e48040503,pending,Samsung Galaxy S23,18/01/2025
+5c15cd2e-3bc8-4148-b408-619ec62a4dc9,Jody Singh,0fcbbad2-f2fb-49b2-917c-420378894c7c,pending,Smartwatch,17/04/2025
+54e2bfec-0014-414c-a30d-cdced0a3ea9e,Lauren Perez,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,pending,Women's Jacket,05/11/2024
+31a650bb-84bc-427b-9899-fd8d40425cf8,Gloria Roberts,40d002c5-4a55-44a5-b53c-18b3608f101e,cancelled,Dell Laptop,12/11/2024
+b32ea8ac-f3e8-4fae-8a7c-3fab031e3d2e,Anthony Edwards,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,completed,Leather Wallet,29/03/2025
+e483bc39-d653-49d6-a824-fc977f2668de,Justin Soto,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,15/11/2024
+2338d6c9-3e95-4e9f-a9d3-276dc834c7c0,Richard Thompson,aed30a3b-d776-4bd1-b2be-369ee6786d9d,cancelled,Logitech Mouse,18/04/2025
+66162bcc-a72d-4e8b-80f9-058c394301e1,Amy Lopez MD,0fcbbad2-f2fb-49b2-917c-420378894c7c,pending,Smartwatch,24/10/2024
+f8e45008-e957-4cbd-92ae-adfcdd9dd738,Ryan Walter,7de6e0b6-ded5-4db1-a958-24f066da9986,completed,Men's T-Shirt,22/01/2025
+96e74e45-4075-40e0-bf03-50a0cf393807,Cody Juarez,7fc76315-25e2-479c-8387-dfd40ca0d074,cancelled,Kids' Jeans,27/12/2024
+71558a8b-5454-4782-94c5-c1806dcad879,Mark Jenkins PhD,40d002c5-4a55-44a5-b53c-18b3608f101e,completed,Dell Laptop,20/12/2024
+d27588ce-755f-4c26-8f00-1c68512e0a65,Andrew Harris,7de6e0b6-ded5-4db1-a958-24f066da9986,completed,Men's T-Shirt,04/03/2025
+7d715697-b660-4c4b-9de9-a62aa7fc6dd7,Sherry Hall,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,30/12/2024
+4c7bef1a-52c2-46d0-82e3-1bb13055ed28,Laura Moore,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,17/11/2024
+14716a13-d714-4500-861e-9ac26169bad6,Lori Diaz DDS,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,pending,Leather Wallet,29/03/2025
+b5dad994-2605-48fd-b1b9-d1fce87cdd7f,Brittany Campbell,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,pending,Sony Headphones,15/01/2025
+8e96ea40-322e-462b-992d-e8d5e92b4364,Patrick Meyer,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,cancelled,iPhone 15,12/04/2025
+54351015-7dbd-4193-b655-83cc1ee12952,Albert Kirk,e48ea11c-9985-40aa-b006-7e79fea09a54,pending,Casual Dress,14/02/2025
+8dd01243-d56c-4a01-a7ac-19fbb8da87be,Eric Wood PhD,598302e4-6327-4d03-8c9a-be831275defb,pending,Backpack,30/01/2025
+1588a47c-8994-4690-aee8-6346eade34b6,Catherine Wilkerson,940f36d2-add8-4500-9412-7ae4ab30a336,completed,Unisex Hoodie,18/03/2025
+fa907d15-0a05-42eb-94bd-7205c5c21544,Crystal King,40d002c5-4a55-44a5-b53c-18b3608f101e,pending,Dell Laptop,26/12/2024
+242495c3-4db5-4716-b2e9-cbee651080b2,Scott Kelly,bcce3a75-61b7-4c20-9791-7380604fc136,cancelled,Bluetooth Speaker,23/11/2024
+4c06e855-6bd4-4493-aefd-44744634e3f9,Troy Carter,e48ea11c-9985-40aa-b006-7e79fea09a54,completed,Casual Dress,08/03/2025
+8654530d-8a69-4d16-8c1e-81170d307608,Jesse Cantu,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,completed,Women's Jacket,19/12/2024
+e3e0eded-928d-45fe-8b63-84fa98a7c9b8,Christine Sanders,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,cancelled,Sunglasses,26/10/2024
+f99d4211-dd39-47d5-a043-1360390f4d3f,Jeremiah White,7fc76315-25e2-479c-8387-dfd40ca0d074,completed,Kids' Jeans,14/03/2025
+d8981208-0dae-4056-ac82-6c7060777541,James Richardson,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,completed,Sports Shorts,28/03/2025
+717c21c1-354f-4d40-8ddd-cb322bac8db3,Diana Schroeder,ce37ea68-4f7b-448a-ae80-b0b5cdfcd15a,completed,Leather Wallet,13/11/2024
+c440adc1-64d5-42f0-b647-19e0d4cd29ac,Maria Steele,7de6e0b6-ded5-4db1-a958-24f066da9986,pending,Men's T-Shirt,03/12/2024
+7998c187-f024-4e2c-bb2d-389a4cb91003,Ricky Watson,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,15/11/2024
+2960947a-ab73-475a-9fbd-b7392c08c3a0,Megan Kelley,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,05/04/2025
+0a797f9e-3e1f-4e1c-bc70-f83af23b4364,Melissa Trujillo,7fc76315-25e2-479c-8387-dfd40ca0d074,cancelled,Kids' Jeans,05/03/2025
+d60c3c0b-4a70-4bbe-80c9-a52d602b8a04,Diamond Jenkins,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,pending,Apple iPad,17/11/2024
+4c7bef1a-52c2-46d0-82e3-1bb13055ed28,Stephen Parker,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,03/03/2025
+a18d8012-f1a5-4e11-81c8-0dd56258a460,Melissa Holland,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,cancelled,Sony Headphones,04/12/2024
+96afc125-11b5-4d14-86f8-3d24be7a0961,Dennis Ford,3772af79-76eb-4126-a91c-805e74ca9bf3,completed,Formal Shirt,20/12/2024
+7b740885-3837-43fa-8243-757d756d5145,Anthony Houston,aed30a3b-d776-4bd1-b2be-369ee6786d9d,completed,Logitech Mouse,14/11/2024
+0a797f9e-3e1f-4e1c-bc70-f83af23b4364,Kimberly Davis,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,01/12/2024
+54e2bfec-0014-414c-a30d-cdced0a3ea9e,Felicia Zuniga,aed30a3b-d776-4bd1-b2be-369ee6786d9d,cancelled,Logitech Mouse,15/11/2024
+b6eaf88f-1bd4-4ec1-acfd-521daccd3da2,Cindy Torres,0fcbbad2-f2fb-49b2-917c-420378894c7c,pending,Smartwatch,05/11/2024
+97620334-8b71-4de5-9908-79b743e8255c,Jessica Sanders,4c0f2d3f-69da-46d7-9a46-022e48040503,pending,Samsung Galaxy S23,11/01/2025
+61c15e59-a179-4876-b99f-9508ddcbe502,Jimmy Morgan,40d002c5-4a55-44a5-b53c-18b3608f101e,cancelled,Dell Laptop,04/03/2025
+7aa04ff6-a841-418c-8bdf-f306e179b933,Rachel Palmer,7de6e0b6-ded5-4db1-a958-24f066da9986,completed,Men's T-Shirt,18/03/2025
+b02e9c8c-24de-4a7c-b38c-c4dc6ef60c21,Haley Howell,0fcbbad2-f2fb-49b2-917c-420378894c7c,completed,Smartwatch,22/03/2025
+ec09f994-d2b6-47aa-b133-77576a170fb8,Jonathan Palmer,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,cancelled,Sports Shorts,12/11/2024
+fdc7caa7-045c-4f09-8c35-e3378e179a0b,Maria Wilson,645e7259-aaa2-47c9-b175-1f91a2c1fee4,completed,HP Monitor,05/11/2024
+a6c76197-22db-4d0d-8b50-706636f115aa,Ryan Carrillo,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,pending,Sports Shorts,25/10/2024
+ef5b6d91-5196-4e19-9e14-4feb8525541f,Crystal Anthony,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,20/03/2025
+ba92cc8a-2124-4062-867c-adf1c85d4c6a,Kimberly Sanchez,f50ab5c1-b85c-4432-9f3f-095ddddb7037,completed,Google Pixel 8,23/01/2025
+dcffd063-cd23-4c46-a579-78bff10c60a9,Harold Watts,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,cancelled,Sony Headphones,17/03/2025
+ac9b253b-4adf-45f6-8d71-ee55f02ebbc0,Anthony Johnson,40d002c5-4a55-44a5-b53c-18b3608f101e,pending,Dell Laptop,13/01/2025
+dddb9301-91ac-4d95-bec4-00614ce78836,Ryan Flores,0fcbbad2-f2fb-49b2-917c-420378894c7c,cancelled,Smartwatch,29/10/2024
+2918e44a-cbba-4427-9e8e-8eca4466658d,Linda Brown,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,28/11/2024
+3c8a6d74-e124-44f4-b2d6-fc53786ec7c3,Sarah Scott,940f36d2-add8-4500-9412-7ae4ab30a336,cancelled,Unisex Hoodie,11/11/2024
+40e68922-9187-4102-b4c4-547e6100ccd8,Dawn Grant,7de6e0b6-ded5-4db1-a958-24f066da9986,completed,Men's T-Shirt,27/10/2024
+f9c4f145-c461-4c91-a1c1-2ae9d6a21a9f,John Vega,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,pending,Sports Shorts,24/03/2025
+a4466c59-3f50-4bc9-b8a4-ab7dec9214ff,James Bishop,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,pending,iPhone 15,26/02/2025
+0d630ae4-2b82-40d4-9c45-cc6dd6496068,Kenneth Adams,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,completed,Sony Headphones,29/01/2025
+bf82078e-79f4-4c01-b879-18d4f08ba8ae,Adam Roth,f50ab5c1-b85c-4432-9f3f-095ddddb7037,pending,Google Pixel 8,13/02/2025
+6eb358d5-b17e-48ce-9c03-aef6c9029a84,Sonya Gibson,645e7259-aaa2-47c9-b175-1f91a2c1fee4,pending,HP Monitor,01/11/2024
+fffb67ac-efb2-49b2-b156-10ac89f312df,Norman Turner,0fcbbad2-f2fb-49b2-917c-420378894c7c,pending,Smartwatch,20/01/2025
+fc879340-2c52-4d70-8d9f-5182fae7b899,Rachel Hale,3772af79-76eb-4126-a91c-805e74ca9bf3,cancelled,Formal Shirt,13/11/2024
+79043cf2-28f3-434d-834b-13535e3e273f,Elizabeth Paul,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,completed,Sony Headphones,15/04/2025
+a1d6a62b-927b-4800-9210-5a85b00cc51e,Julie Brewer,598302e4-6327-4d03-8c9a-be831275defb,completed,Backpack,09/12/2024
+00ba9c88-a8fb-4cc2-9e1f-a871e9dfed54,Steve Davis,bcce3a75-61b7-4c20-9791-7380604fc136,pending,Bluetooth Speaker,29/10/2024
+c52c9acc-240d-4618-9b1a-f18f2d22e50e,Tina Moore,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,cancelled,Women's Jacket,03/11/2024
+bf04be76-db6c-41bf-b998-aeeb1324eca7,Michael Moore,48ff1c8b-dd9a-4a86-af94-00bb62cc79a4,cancelled,iPhone 15,18/12/2024
+cbac26e0-3eba-444f-9915-aabefe0e640b,Daniel Thomas DVM,598302e4-6327-4d03-8c9a-be831275defb,pending,Backpack,27/02/2025
+b7dd06b9-80c7-4864-8c38-b9d6bdbe6afb,Andrew Colon,4c0f2d3f-69da-46d7-9a46-022e48040503,cancelled,Samsung Galaxy S23,23/10/2024
+756d52ef-8f2d-46fb-8620-5d6842a42816,Grant Barker,1ab76536-a2fd-48c0-a7fb-f131e6331b5e,pending,Sports Shorts,16/03/2025
+66162bcc-a72d-4e8b-80f9-058c394301e1,Melissa Reed,598302e4-6327-4d03-8c9a-be831275defb,cancelled,Backpack,09/11/2024
+f8e45008-e957-4cbd-92ae-adfcdd9dd738,Alicia Kennedy,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,pending,Sunglasses,22/03/2025
+8d9c3906-e6a8-409d-b724-859a3c873ba0,Amy Miles,7de6e0b6-ded5-4db1-a958-24f066da9986,cancelled,Men's T-Shirt,14/11/2024
+c5dbc5fd-c028-49d7-902d-dce49ebced1b,Mallory Carpenter,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,completed,Apple iPad,18/04/2025
+791bc743-e462-42a8-9bb6-42c3a812d16f,Joseph Davis,3772af79-76eb-4126-a91c-805e74ca9bf3,pending,Formal Shirt,15/02/2025
+8495d114-8423-448d-9dc7-ad2dea645c8d,Victor Matthews,4c0f2d3f-69da-46d7-9a46-022e48040503,completed,Samsung Galaxy S23,30/11/2024
+c423c797-ec75-4413-9602-748498113d86,Melanie Jackson,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,completed,Sunglasses,12/02/2025
+a7f3a8ef-488a-419c-9811-1e89e62a8890,Eric Collins,e48ea11c-9985-40aa-b006-7e79fea09a54,cancelled,Casual Dress,14/04/2025
+d670e994-bf17-44b2-9ac6-96dde0367a50,Kimberly Robbins,f50ab5c1-b85c-4432-9f3f-095ddddb7037,pending,Google Pixel 8,29/11/2024
+b2d69b49-01b9-40f1-8299-dd92cb56091a,Robin Williamson,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,26/11/2024
+97620334-8b71-4de5-9908-79b743e8255c,Hannah Serrano,e48ea11c-9985-40aa-b006-7e79fea09a54,pending,Casual Dress,28/02/2025
+f8e45008-e957-4cbd-92ae-adfcdd9dd738,Alexa Taylor,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,completed,Sunglasses,28/12/2024
+5b9cc20e-c4d3-42e1-b521-bf71fa3926e8,Anthony Mccormick,7fc76315-25e2-479c-8387-dfd40ca0d074,cancelled,Kids' Jeans,27/10/2024
+22b552c0-4252-4d08-8408-9af94def9329,Rachael Maldonado,0fcbbad2-f2fb-49b2-917c-420378894c7c,completed,Smartwatch,07/11/2024
+07aa498f-af83-4b51-9e3b-ce3eff59fb72,Thomas Franklin,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,completed,Sunglasses,18/11/2024
+84df6315-b217-48cd-9281-f45d2b88b987,Christopher Spence,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,cancelled,Sunglasses,03/04/2025
+0a797f9e-3e1f-4e1c-bc70-f83af23b4364,Andrew Banks,645e7259-aaa2-47c9-b175-1f91a2c1fee4,completed,HP Monitor,15/03/2025
+5bfd9014-a8ad-4717-8bb4-e480b6ac7c69,Bethany Graves,598302e4-6327-4d03-8c9a-be831275defb,completed,Backpack,14/12/2024
+c344f12d-9cd1-4782-b731-f932264f339c,Carla Olson,40d002c5-4a55-44a5-b53c-18b3608f101e,completed,Dell Laptop,10/02/2025
+819bb7a4-3bf3-48d3-a3b8-455d019d25ee,Michele Alexander,f50ab5c1-b85c-4432-9f3f-095ddddb7037,cancelled,Google Pixel 8,27/12/2024
+d3e2329b-f75b-4fa9-8ea4-c8bfbaec64dc,Anna Anderson,0fcbbad2-f2fb-49b2-917c-420378894c7c,cancelled,Smartwatch,28/12/2024
+6eb358d5-b17e-48ce-9c03-aef6c9029a84,Brian Rangel,aed30a3b-d776-4bd1-b2be-369ee6786d9d,completed,Logitech Mouse,21/11/2024
+4112a5bf-dec8-4283-b811-c1f8e71a3ab3,Daniel Werner,940f36d2-add8-4500-9412-7ae4ab30a336,completed,Unisex Hoodie,05/04/2025
+1f953df9-63d1-447d-a2f1-a94381abb04f,John Miller,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,completed,Apple iPad,26/01/2025
+b6eaf88f-1bd4-4ec1-acfd-521daccd3da2,Brandon Sanchez,e48ea11c-9985-40aa-b006-7e79fea09a54,pending,Casual Dress,21/03/2025
+8654530d-8a69-4d16-8c1e-81170d307608,Gregory Lopez,40d002c5-4a55-44a5-b53c-18b3608f101e,completed,Dell Laptop,11/03/2025
+001b9d33-1f9c-4a17-9509-bc6b44af790f,Cody Bartlett,7de6e0b6-ded5-4db1-a958-24f066da9986,completed,Men's T-Shirt,17/02/2025
+4c722705-a876-4532-8c8c-458e83a560fd,William Michael,f50ab5c1-b85c-4432-9f3f-095ddddb7037,pending,Google Pixel 8,07/12/2024
+cab45cc1-c054-4938-887d-d41a613fb6e0,Aaron French,8efa5d1f-267b-4a5d-a659-03b5c91f56b6,cancelled,Sony Headphones,27/01/2025
+22b552c0-4252-4d08-8408-9af94def9329,Samantha Cox,bcce3a75-61b7-4c20-9791-7380604fc136,pending,Bluetooth Speaker,09/02/2025
+c9437d46-74d9-4362-8c06-b1daa17b88e4,Stephanie Hays,7de6e0b6-ded5-4db1-a958-24f066da9986,completed,Men's T-Shirt,03/11/2024
+f8e45008-e957-4cbd-92ae-adfcdd9dd738,Logan Wilson,645e7259-aaa2-47c9-b175-1f91a2c1fee4,completed,HP Monitor,09/11/2024
+1bec11e5-dd1f-4a6b-886c-c30bd45339e1,Abigail Bates,940f36d2-add8-4500-9412-7ae4ab30a336,completed,Unisex Hoodie,29/03/2025
+c85b64dd-ad8b-47d8-8ee4-d6cab405c4a8,Dennis Long,12151bc1-2d0b-45f3-a2e4-a7a335e0aca5,pending,Women's Jacket,10/02/2025
+f9c4f145-c461-4c91-a1c1-2ae9d6a21a9f,Melissa Murphy,fcd37b61-f030-40a7-9ad1-a4f16b66bd8d,completed,Apple iPad,18/03/2025
+bfa4956f-df14-4c80-851b-32daebcd6bb0,Cynthia Brady,3b3cfb68-f8dc-4c83-a938-a41514dd1c8d,cancelled,Sunglasses,24/10/2024
+b5dad994-2605-48fd-b1b9-d1fce87cdd7f,Deborah Jones,aed30a3b-d776-4bd1-b2be-369ee6786d9d,completed,Logitech Mouse,01/02/2025
