@@ -118,8 +118,8 @@ AND (
 - 🎯 These users are ideal candidates for re-engagement campaigns.
 
 ## 📈 Power BI Integration
-# Power BI is directly connected to the Gold Lakehouse SQL endpoint
-# Marketing users can explore:
+- Power BI is directly connected to the Gold Lakehouse SQL endpoint
+- Marketing users can explore:
   - Correlations between enquiries and visits
   - Drop-off trends post-engagement
   - Channel-wise performance analysis
